@@ -11,4 +11,4 @@
 10. Set system property of the browser(System.setProperty("webdriver.chrome.driver", "C:\\Users\\HP\\AppData\\Local\\Temp\\Rar$EX00.109\\chromedriver.exe");)
 11. Create driver object based on driver choosen(WebDriver driver=new ChromeDriver();) [here object is driver]
 12. Invoke the desirable site(driver.get("https://www.demoblaze.com");)
-
+For login / sign you need to change user name and password . 
